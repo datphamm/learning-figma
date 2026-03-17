@@ -139,7 +139,7 @@
 }
 
 /* Mobile */
-@media (max-width: 767px) {
+@media (max-width: 739px) {
     html {
         font-size: 56.25%;
     }
